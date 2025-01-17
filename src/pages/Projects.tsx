@@ -105,7 +105,7 @@ const projects: Project[] = [
   },
   {
     id: 6,
-    title: "Går inte ens att känna igen före och efter",
+    title: "Komplett Köksrenovering",
     description: "Total köksförvandling som överträffar alla förväntningar",
     category: "kitchen",
     images: [
