@@ -26,7 +26,7 @@ const projects: Project[] = [
     ],
     details: {
       location: "Stockholm",
-      duration: "3 veckor",
+      duration: "",
       scope: [
         "Komplett badrumsrenovering",
         "Skandinavisk design",
@@ -48,7 +48,7 @@ const projects: Project[] = [
     ],
     details: {
       location: "Södermalm",
-      duration: "3 veckor",
+      duration: "",
       scope: [
         "Komplett badrumsrenovering",
         "Svarta detaljer och armaturer",
@@ -70,7 +70,7 @@ const projects: Project[] = [
     ],
     details: {
       location: "Stockholm",
-      duration: "2 veckor",
+      duration: "",
       scope: [
         "Optimerad planlösning",
         "Platsbyggda förvaringslösningar",
@@ -92,7 +92,7 @@ const projects: Project[] = [
     ],
     details: {
       location: "Sundbyberg",
-      duration: "3 veckor",
+      duration: "",
       scope: [
         "Komplett badrumsrenovering",
         "Specialdesignad duschvägg",
@@ -136,7 +136,7 @@ const projects: Project[] = [
     ],
     details: {
       location: "Stockholm",
-      duration: "4 veckor",
+      duration: "",
       scope: [
         "Komplett köksrenovering",
         "Installation av nya vitvaror",
@@ -160,7 +160,7 @@ const projects: Project[] = [
     ],
     details: {
       location: "Stockholm",
-      duration: "3 veckor",
+      duration: "",
       scope: [
         "Komplett badrumsrenovering",
         "Installation av ny dusch",
@@ -181,7 +181,7 @@ const projects: Project[] = [
     ],
     details: {
       location: "Solna",
-      duration: "3 veckor",
+      duration: "",
       scope: [
         "Komplett badrumsrenovering",
         "Installation av ny dusch",
@@ -203,7 +203,7 @@ const projects: Project[] = [
     ],
     details: {
       location: "Östermalm",
-      duration: "3 veckor",
+      duration: "",
       scope: [
         "Komplett badrumsrenovering",
         "Installation av ny dusch",
@@ -227,7 +227,7 @@ const projects: Project[] = [
     ],
     details: {
       location: "Järfälla",
-      duration: "4 veckor",
+      duration: "",
       scope: [
         "Komplett badrumsrenovering",
         "Rivning av befintligt badrum",
